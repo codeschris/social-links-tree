@@ -9,4 +9,4 @@ The page was created using Tailwind CSS.
 
 ![Screenshot 2023-06-30 224750](https://github.com/codeschris/social-links-tree/assets/82896090/9de7528e-4fd4-449b-81bb-7bdea4d3127d)
 
-***Note:*** _I might deploy in the future._
+***Note:*** _I will deploy in the future._
