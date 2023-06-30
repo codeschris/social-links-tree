@@ -8,3 +8,7 @@ body{
     background-size: cover;
     background-attachment: fixed;
 }
+
+button i:hover{
+    color: #000;
+}
